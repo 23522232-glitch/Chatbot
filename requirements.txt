@@ -1,0 +1,7 @@
+faiss-cpu
+gradio
+numpy
+sentence-transformers
+langchain-google-genai
+langchain-text-splitters
+google-genai
