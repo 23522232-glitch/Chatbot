@@ -5,3 +5,5 @@ sentence-transformers
 langchain-google-genai
 langchain-text-splitters
 google-genai
+torch
+torchvision
